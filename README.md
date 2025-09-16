@@ -1,9 +1,7 @@
 
-# FTW Data Engineering Journal Template
+# FTW Data Engineering Journal
 
 A minimal learning journal for a **4-Saturday Data Engineering Bootcamp**.  
-
-Use it to capture learnings, reflections, vocabulary, and the **DE mindset** — especially for documenting, communicating, and presenting.
 
 ---
 
